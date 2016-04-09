@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Automation for productivity
-datePublished: '2016-04-09T16:14:01.153Z'
-dateModified: '2016-04-09T16:13:46.269Z'
+datePublished: '2016-04-09T16:16:24.966Z'
+dateModified: '2016-04-09T16:14:09.357Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-09-automation-for-productivity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-automation-for-productivity.md
-published: true
 url: automation-for-productivity/index.html
 _type: Article
 
